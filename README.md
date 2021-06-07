@@ -1,8 +1,8 @@
-👋 Hi, I’m @Anita-wangu
-👀 I’m interested in Software Engineering
-🌱 I’m currently learning Java
-💞️ I’m looking to collaborate on java and android projects
-📫 How to reach me: nitawangu@gmail.com
+- 👋 Hi, I’m @Anita-wangu
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on java and android projects
+- 📫 How to reach me: nitawangu@gmail.com
 <!--
 **Anita-wangu/Anita-wangu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
